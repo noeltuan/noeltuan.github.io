@@ -4554,6 +4554,7 @@
 
 		.inner .circle-face img {
 			width: 100%;
+			border-radius: 0px;
 		}
 
 		#footer .about {
