@@ -4518,6 +4518,11 @@
 			margin: 20px;
 		}
 
+		/* Immersion */
+		#main > .immersion-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion.jpg);
+		}
+
 		/* FAQ */
 		#main > .faq-header {
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/faq-cover-scaled.jpg);
