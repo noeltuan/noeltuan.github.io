@@ -2784,7 +2784,7 @@
 					padding: 3em 3em 1em 3em ;
 					display: block;
 					max-width: none;
-					text-align: center;
+					text-align: left;
 					width: 100%;
 				}
 
@@ -2798,7 +2798,7 @@
 		@media screen and (max-width: 736px) {
 
 			.spotlight .content {
-				padding: 3em 2em 1em 2em ;
+				padding: 2em 0em 0em ;
 			}
 
 		}
@@ -2806,7 +2806,7 @@
 		@media screen and (max-width: 480px) {
 
 			.spotlight .content {
-				padding: 2.5em 2em 0.5em 2em ;
+				padding: 2em 0em 0em ;
 			}
 
 		}
