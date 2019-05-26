@@ -4499,10 +4499,20 @@
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/tarot.jpg);
 		}
 
-			/* DEAR Header */
-			#main > .dear-header {
-				background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/dear.jpg);
-			}
+		/* DEAR Header */
+		#main > .dear-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/dear.jpg);
+		}
+
+		/* Mentoring Header */
+		#main > .mentoring-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/Mentoring-Program.jpg);
+		}
+
+		/* Kundalini Yoga Header */
+		#main > .kundalini-yoga-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/Kundalini-Yoga-Banner.jpg);
+		}
 
 		/* Testimonials */
 		#main > .testimonials-header {
