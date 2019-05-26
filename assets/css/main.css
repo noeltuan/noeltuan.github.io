@@ -4506,12 +4506,12 @@
 
 		/* Mentoring Header */
 		#main > .mentoring-header {
-			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/Mentoring-Program.jpg);
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/mentoring-program.jpg);
 		}
 
 		/* Kundalini Yoga Header */
 		#main > .kundalini-yoga-header {
-			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/Kundalini-Yoga-Banner.jpg);
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/kundalini-yoga-banner.jpg);
 		}
 
 		/* Testimonials */
