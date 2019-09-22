@@ -1384,9 +1384,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Basic */
@@ -1423,9 +1421,7 @@
 		}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Type */
@@ -1668,9 +1664,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Box */
@@ -1699,9 +1693,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Button */
@@ -2115,9 +2107,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Icon */
@@ -2155,9 +2145,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Image */
@@ -2227,9 +2215,7 @@
 		}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* List */
@@ -2439,9 +2425,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Section/Article */
@@ -2567,9 +2551,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Features */
@@ -2701,9 +2683,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Spotlight */
@@ -2953,9 +2933,7 @@
 	}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Menu */
@@ -3193,9 +3171,7 @@
 		}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Banner */
@@ -3463,9 +3439,7 @@
 		}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Main */
@@ -3566,9 +3540,7 @@
 		}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Wrapper */
@@ -4073,9 +4045,7 @@
 		}
 
 	/*
-		Tactile by Pixelarity
-		pixelarity.com @pixelarity
-		License: pixelarity.com/license
+
 	*/
 
 /* Footer */
@@ -4524,13 +4494,18 @@
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/dear-testimonials.jpg);
 		}
 
+		/* KY Testimonials */
+		#main > .kundalini-testimonials-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/kundalini-yoga-testimonial-cover.jpg);
+		}
+
 		.spotlight {
 			margin: 20px;
 		}
 
 		/* Immersion */
 		#main > .immersion-header {
-			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion-v2.jpg);
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion-2020.jpg);
 		}
 
 		/* FAQ */
