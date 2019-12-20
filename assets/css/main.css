@@ -4499,6 +4499,11 @@
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/kundalini-yoga-testimonial-cover.jpg);
 		}
 
+		/* Immersion Testimonials */
+		#main > .immersion-testimonials-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion-testimonials-cover.jpg);
+		}
+
 		.spotlight {
 			margin: 20px;
 		}
