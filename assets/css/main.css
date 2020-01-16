@@ -4513,6 +4513,14 @@
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion-2020.jpg);
 		}
 
+		#main > .immersion-peru-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion-peru/Banner.jpg);
+		}
+
+		#main > .immersion-nepal-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/immersion-nepal/Banner.jpeg);
+		}
+
 		/* FAQ */
 		#main > .faq-header {
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/faq-cover-scaled.jpg);
