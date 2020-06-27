@@ -2836,6 +2836,10 @@
 				font-weight: 300;
 			}
 
+			#header > h1 img {
+				height: 100%;
+			}
+
 		#header > a {
 			-moz-transition: color 0.2s ease-in-out;
 			-webkit-transition: color 0.2s ease-in-out;
@@ -4482,6 +4486,10 @@
 		/* Kundalini Yoga Header */
 		#main > .kundalini-yoga-header {
 			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/kundalini-yoga-banner.jpg);
+		}
+		/* EFT Header */
+		#main > .eft-header {
+			background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../../images/eft.jpg);
 		}
 
 		/* Testimonials */
